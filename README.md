@@ -56,3 +56,8 @@ It also generates two plots:
 
 ```bash
 python3 qs7.py
+```
+
+## Output Image
+<img width="468" height="167" alt="image" src="https://github.com/user-attachments/assets/832d100c-3566-493f-bda1-c3eee625758d" />
+
