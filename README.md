@@ -1,7 +1,6 @@
 # Linear Regression: Normal Equation vs Gradient Descent
 
 ### Student Name : Swaathi Shelvapulle
-### Student ID : 700792797
 
 This project demonstrates **Linear Regression** implemented in two different ways:
 
